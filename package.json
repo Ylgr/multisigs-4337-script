@@ -1,0 +1,11 @@
+{
+  "name": "multisigs-erc4337-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@safe-global/relay-kit": "^3.0.1",
+    "dotenv": "^16.4.5"
+  },
+  "type": "module"
+}
