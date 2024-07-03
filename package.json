@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@noble/hashes": "^1.4.0",
+    "@safe-global/protocol-kit": "^4.0.2",
     "@safe-global/relay-kit": "^3.0.1",
     "dotenv": "^16.4.5",
     "ethers": "^6.13.0"
